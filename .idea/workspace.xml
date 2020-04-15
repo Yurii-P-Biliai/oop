@@ -57,6 +57,11 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1919" />
+    <option name="width" value="1922" />
+    <option name="height" value="1080" />
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -104,6 +109,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="npu" type="462c0819:PsiDirectoryNode" />
               <item name="lab02" type="462c0819:PsiDirectoryNode" />
+              <item name="lab01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oop" type="b2602c69:ProjectViewProjectNode" />
@@ -113,6 +119,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="npu" type="462c0819:PsiDirectoryNode" />
               <item name="lab02" type="462c0819:PsiDirectoryNode" />
+              <item name="lab01" type="462c0819:PsiDirectoryNode" />
               <item name="task02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -122,6 +129,12 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,6 +178,11 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="253000" />
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
@@ -172,6 +190,8 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49455675" visible="true" weight="0.19690502" />
       <window_info id="Structure" order="1" sideWeight="0.5054432" side_tool="true" visible="true" weight="0.19690502" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49532712" visible="true" weight="0.19690502" />
+      <window_info id="Structure" order="1" sideWeight="0.5046729" side_tool="true" visible="true" weight="0.19690502" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -202,6 +222,9 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="right" id="Maven" order="9" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -234,6 +257,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 01 from lab 01 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 01 from lab 01 done" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/lab01/task01/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -244,8 +294,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/lab01/task02/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
