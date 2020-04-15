@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="611b5063-a216-4252-9702-e6f3f16e38b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/edu/npu/lab01/task02/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="611b5063-a216-4252-9702-e6f3f16e38b8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,14 +18,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/lab01/task02/Application.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/lab02/task02/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="112">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -52,6 +45,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ua/edu/npu/ReadMe.txt" />
         <option value="$PROJECT_DIR$/src/main/java/ua/edu/npu/lab01/task01/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/ua/edu/npu/lab01/task02/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/edu/npu/lab02/task01/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/edu/npu/lab02/task02/Application.java" />
       </list>
     </option>
   </component>
@@ -113,6 +108,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="npu" type="462c0819:PsiDirectoryNode" />
+              <item name="lab02" type="462c0819:PsiDirectoryNode" />
               <item name="lab01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -122,6 +118,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="npu" type="462c0819:PsiDirectoryNode" />
+              <item name="lab02" type="462c0819:PsiDirectoryNode" />
               <item name="lab01" type="462c0819:PsiDirectoryNode" />
               <item name="task02" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -161,7 +158,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586976990974</updated>
-      <workItem from="1586976992485" duration="321000" />
+      <workItem from="1586976992485" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="Task 01 from lab 01 done">
       <created>1586977243795</created>
@@ -170,6 +167,17 @@
       <option name="project" value="LOCAL" />
       <updated>1586977243795</updated>
     </task>
+    <task id="LOCAL-00002" summary="Task 02 from lab 01 done">
+      <created>1586977320508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586977320508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="253000" />
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
@@ -180,6 +188,8 @@
     <frame x="1919" y="0" width="1922" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49455675" visible="true" weight="0.19690502" />
+      <window_info id="Structure" order="1" sideWeight="0.5054432" side_tool="true" visible="true" weight="0.19690502" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49532712" visible="true" weight="0.19690502" />
       <window_info id="Structure" order="1" sideWeight="0.5046729" side_tool="true" visible="true" weight="0.19690502" />
       <window_info id="Image Layers" order="2" />
@@ -196,7 +206,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32985386" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32985386" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295099" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
@@ -242,6 +252,11 @@
       </map>
     </option>
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/lab02/task01/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task 01 from lab 01 done" />
     <option name="LAST_COMMIT_MESSAGE" value="Task 01 from lab 01 done" />
@@ -275,6 +290,10 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/lab02/task02/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ua/edu/npu/lab01/task02/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
